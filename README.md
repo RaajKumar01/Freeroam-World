@@ -27,16 +27,13 @@ UPDATE: I have updated the script and not decided to share it now. Hit me up on 
   Admin System (Needs Command)<br/>
   Teleport Menu <br/>
   Weapons Menu with Preview Dialog  <br/>
+  Added New Challenges and Minigames <br/>
+  Added New Textdraws <br />
 
 # Images
 
  General: https://imgur.com/a/rBII3hh<br/>
  Weapons: https://imgur.com/a/cFmXXO3<br/>
-
-# Features Needed 
-   Admin Commands<br/>
-   List of Commands dialog.<br/>
-   
    
 # Note
     The development was stopped few days ago. I started this gamemode during the COVID-19 pandemic and stopped it at 21st Aug 2020. If you want to continue it, then you can. I won't be developing it anymore. Thanks you.
