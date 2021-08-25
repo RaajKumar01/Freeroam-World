@@ -1,7 +1,7 @@
 # Freeroam World 
 Freeoam World by Oblivion 
 
-UPDATE: I have updated the script and not decided to share it now. Hit me up on discord . Lets have a talk.
+UPDATE: I have updated the script recently. If you have are facing issues, hit me up on the discord. Lets have a talk.
 
 # Includes
 
@@ -36,7 +36,7 @@ UPDATE: I have updated the script and not decided to share it now. Hit me up on 
  Weapons: https://imgur.com/a/cFmXXO3<br/>
    
 # Note
-    The development was stopped few days ago. I started this gamemode during the COVID-19 pandemic and stopped it at 21st Aug 2020. If you want to continue it, then you can. I won't be developing it anymore. Thanks you.
+    The development for this script has been stopped. I started top script this during the COVID-19 pandemic and stopped it at 21st Aug 2020. If you want to continue it, then you can. I won't be developing it anymore. Thanks you.
 
 
 
