@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 /* =====================================================================
                         Freeroam World @ 2020
                         Scripted By: Oblivion
@@ -7008,4 +7008,4 @@ stock IsValidChar(const name[])
 	}
 	return true;
 }
->>>>>>> 20febfa (Updated Version)
+
