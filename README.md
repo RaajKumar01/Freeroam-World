@@ -24,14 +24,15 @@ UPDATE: I have updated the script recently. If you have are facing issues, hit m
   Saving Player Skin.<br/>
   Random Player Spawn( Hotspots )<br/>
   Ban System with Temp Ban .<br/>
-  Admin System (Needs Command)<br/>
+  Admin Systemm<br/>
   Teleport Menu <br/>
   Weapons Menu with Preview Dialog  <br/>
   Added New Challenges and Minigames <br/>
   Added New Textdraws <br />
+  And lots more <br />
 
 # Images
-
+ Note: Pictures of beta phase.
  General: https://imgur.com/a/rBII3hh<br/>
  Weapons: https://imgur.com/a/cFmXXO3<br/>
    
