@@ -36,7 +36,7 @@ UPDATE: I have updated the script recently. If you have are facing issues, hit m
  Weapons: https://imgur.com/a/cFmXXO3<br/>
    
 # Note
-    The development for this script has been stopped. I started top script this during the COVID-19 pandemic and stopped it at 21st Aug 2020. If you want to continue it, then you can. I won't be developing it anymore. Thanks you.
+    The development for this script has been stopped. I started to script this during the COVID-19 pandemic and stopped it at 21st Aug 2020. I won't be developing this anymore. Thanks you.
 
 
 
