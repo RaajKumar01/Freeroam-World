@@ -1,8 +1,6 @@
 # Freeroam World 
 Freeoam World by Oblivion 
 
-UPDATE: I have updated the script recently. If you have are facing issues, hit me up on the discord. Lets have a talk.
-
 # Includes
 
    MySQL r41-4 <br/>
