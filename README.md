@@ -30,7 +30,7 @@ Freeoam World by Oblivion
   And lots more <br />
 
 # Images
- Note: Pictures of beta phase.
+ Note: Pictures of beta phase.<br/>
  General: https://imgur.com/a/rBII3hh<br/>
  Weapons: https://imgur.com/a/cFmXXO3<br/>
    
